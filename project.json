@@ -51,6 +51,10 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCase.xaml"
+      },
+      {
+        "templateType": "Generic",
+        "fileName": ".templates\\WorkflowTemplate.xaml"
       }
     ],
     "saveToCloud": false
